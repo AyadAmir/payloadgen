@@ -4,10 +4,10 @@ PAYLOADGEN
 
 **PayloadGen** is a modular payload generation tool for web vulnerability testing, designed to assist penetration testers, bug bounty hunters, and security researchers in crafting evasion-ready payloads for:
 
-- ✅ XSS (Reflected, Stored, and DOM-based)
-- ✅ SQL Injection (Error-based, Union-based, Blind)
-- ✅ Command Injection (Linux & Windows)
-- ✅ Includes WAF and filter evasion techniques
+-  XSS (Reflected, Stored, and DOM-based)
+-  SQL Injection (Error-based, Union-based, Blind)
+-  Command Injection (Linux & Windows)
+-  Includes WAF and filter evasion techniques
 
 The tool supports both a **Command-Line Interface (CLI)** and an optional **GUI (Tkinter)** for ease of use.
 
@@ -15,7 +15,7 @@ The tool supports both a **Command-Line Interface (CLI)** and an optional **GUI 
 
 ## 🔧 Features
 
-### 🔹 Vulnerability Payload Modules
+###  Vulnerability Payload Modules
 
 - **XSS Generator**
   - Classic and bypass payloads using `<svg>`, `<img>`, `srcdoc`, event handlers, etc.
@@ -28,7 +28,7 @@ The tool supports both a **Command-Line Interface (CLI)** and an optional **GUI 
 
 ---
 
-### 🔹 Advanced Features
+###  Advanced Features
 
 - **Encoding Options**
   - Base64
@@ -45,9 +45,9 @@ The tool supports both a **Command-Line Interface (CLI)** and an optional **GUI 
 
 ---
 
-## 🖥️ Usage
+## Usage
 
-### 📦 CLI Version
+### CLI Version
 
 #### Basic XSS Payloads
 ```bash
